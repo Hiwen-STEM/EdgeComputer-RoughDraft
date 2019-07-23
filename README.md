@@ -1,6 +1,6 @@
 This is a ROUGH DRAFT version of an edge computing framework meant for processing data for Autonomous Vehicles.
 While this version works, it's not optimized as it uses large docker base images, contains unneeded lines of code
-that were used for additional experimentation/debugging, has unneeded files, and not all comments have been updated. A finalized version will be added to another repository...
+that were used for additional experimentation/debugging, has unneeded files, and not all comments have been updated. An optimized version will be added to another repository...
 
 
 Prerequisites:
